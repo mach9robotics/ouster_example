@@ -8,5 +8,6 @@ python/**/*.dll
 python/**/*.pyd
 
 # visual studio
+.vscode/
 .vs/
 out/
